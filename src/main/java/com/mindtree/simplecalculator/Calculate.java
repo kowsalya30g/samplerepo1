@@ -11,7 +11,7 @@ public class Calculate {
 	}
 	public static void main(String[] args) {
 		int x=50;
-		int y=20;
+		int y=22;
 		System.out.println(add(x,y));
 		System.out.println(subtract(x,y));
 	}
